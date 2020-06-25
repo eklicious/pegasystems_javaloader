@@ -1,0 +1,7 @@
+/*~*
+/target/
+/conf/application-dev.ini
+/conf/database-mongo-dev.ini
+/conf/logback-config-dev.xml
+/logs/*.log
+/nbproject/
